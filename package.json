@@ -1,0 +1,25 @@
+{
+  "name": "ryanlearningstuff",
+  "version": "1.0.0",
+  "description": "Repo for learning how things are pieced together",
+  "main": "main.js",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raboss/RyanLearningStuff.git"
+  },
+  "author": "Ryan B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raboss/RyanLearningStuff/issues"
+  },
+  "homepage": "https://github.com/raboss/RyanLearningStuff#readme"
+}

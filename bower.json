@@ -1,0 +1,26 @@
+{
+  "name": "ryanlearningstuff",
+  "description": "Repo for learning how things are pieced together",
+  "main": "main.js",
+  "authors": [
+    "Ryan B"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "2.1.11",
+    "jquery": "1.10.2",
+    "underscore": "1.5.2",
+    "backbone": "1.1.0",
+    "marionette": "1.6.4"
+  }
+}
