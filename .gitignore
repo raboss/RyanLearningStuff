@@ -1,0 +1,16 @@
+node_modules
+.tmp
+.sass-cache
+tests/templates.js
+build
+coverage
+app/libs
+.idea/
+_SpecRunner.html
+.grunt
+us.stackdump
+*.orig
+*.css
+hubapp.zip
+*.sublime-project
+*.sublime-workspace
