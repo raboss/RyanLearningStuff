@@ -7,10 +7,7 @@ coverage
 app/libs
 .idea/
 _SpecRunner.html
-.grunt
-us.stackdump
 *.orig
 *.css
-hubapp.zip
 *.sublime-project
 *.sublime-workspace
