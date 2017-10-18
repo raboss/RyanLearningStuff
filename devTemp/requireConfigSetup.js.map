@@ -1,1 +1,0 @@
-{"version":3,"sources":["requireConfigSetup.js"],"names":[],"mappings":";AAAA,gBAAY,CAAC;;AAEb,WAAO,CAAC,MAAM,CAAC;AACX,aAAK,EAAE;AACH,4BAAgB,EAAE,yCAAyC;SAC9D;KACJ,CAAC,CAAC","file":"requireConfigSetup.js","sourcesContent":["'use strict';\n\nrequire.config({\n    paths: {\n        'babel-polyfill': '../libs/babel-polyfill/browser-polyfill'\n    }\n});"]}

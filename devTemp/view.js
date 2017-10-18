@@ -1,12 +1,8 @@
-define(['exports'], function (exports) {
-    'use strict';
-
-    Object.defineProperty(exports, '__esModule', {
-        value: true
-    });
-    exports.testFunction = testFunction;
-
-    function testFunction() {
-        alert('test');
+define(["require", "exports"], function (require, exports) {
+    "use strict";
+    exports.__esModule = true;
+    function testFunction(text) {
+        alert(text);
     }
+    exports.testFunction = testFunction;
 });
