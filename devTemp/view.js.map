@@ -1,0 +1,1 @@
+{"version":3,"sources":["view.es6.js"],"names":[],"mappings":";;;;;;;;AAAO,aAAS,YAAY,GAAG;AAC3B,aAAK,CAAC,MAAM,CAAC,CAAC;KACjB","file":"view.js","sourcesContent":["export function testFunction() {\r\n    alert('test');\r\n}"]}

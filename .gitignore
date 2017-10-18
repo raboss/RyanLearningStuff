@@ -1,0 +1,13 @@
+node_modules
+.tmp
+.sass-cache
+tests/templates.js
+build
+coverage
+app/libs
+.idea/
+_SpecRunner.html
+*.orig
+*.css
+*.sublime-project
+*.sublime-workspace

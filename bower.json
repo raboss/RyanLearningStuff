@@ -1,0 +1,21 @@
+{
+  "name": "ryanlearnstuff",
+  "description": "just a learning repository",
+  "main": "index.js",
+  "authors": [
+    "Ryan Boss"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/raboss/RyanLearningStuff",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "^2.3.5",
+    "babel-polyfill": "^0.0.1"
+  }
+}

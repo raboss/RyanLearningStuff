@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":[],"mappings":";AAAA,gBAAY,CAAC;;AAEb,UAAM,CAAC,CAAC,gBAAgB,EAAE,MAAM,CAAC,EAAE,UAAU,YAAY,EAAE;AACvD,aAAK,CAAC,OAAO,CAAC,CAAC;AACf,oBAAY,EAAE,CAAC;KAClB,CAAC,CAAC","file":"app.js","sourcesContent":["'use strict';\n\ndefine(['babel-polyfill', 'view'], function (testFunction) {\n    alert('test2');\n    testFunction();\n});"]}
